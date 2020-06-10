@@ -43,6 +43,7 @@ public class Program {
         
        
         System.out.println("Total students: " + set.size());
+        sc.close();
     }
     
 }
